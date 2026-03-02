@@ -43,3 +43,4 @@ temp/
 
 # Claude Code
 .claude/settings.local.json
+prj-doc-todo.md
